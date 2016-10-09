@@ -2,5 +2,6 @@
 <project version="4">
   <component name="JavaScriptLibraryMappings">
     <file url="file://$PROJECT_DIR$" libraries="{untitled/node_modules}" />
+    <file url="PROJECT" libraries="{async-DefinitelyTyped, express-DefinitelyTyped, jQuery-2.0.0, karma-DefinitelyTyped, mongoose-DefinitelyTyped, morgan-DefinitelyTyped, passport-DefinitelyTyped, request-DefinitelyTyped, socket.io-DefinitelyTyped}" />
   </component>
 </project>
